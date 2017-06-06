@@ -6,10 +6,14 @@ The purpose of this project is to demonstrate my ability to collect, work with, 
 ## Project summary
 This is the course project for the Getting and Cleaning Data Coursera course. The R script, run_analysis.R, does the following:
 
-1.Download the dataset 
+1.Download the dataset
+
 2.Load both the training and test datasets
+
 3.Convert the activity and subject columns into factors
+
 4.Merge the two datasets
+
 5.create one data set containing subjects, activity and measurements
 6.Exctrat only the measurements on the mean and standard deviation for each measurement
 7.Using descriptive activity names to name the activities in the data set
