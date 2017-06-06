@@ -1,0 +1,26 @@
+## Introduction
+
+The script run_analysis.Rperforms the 5 steps described in the course project's definition.
+1. Merge the training and the test sets to create one data set that contains ontaining subjects, activity and measurements.
+
+2. Exctrat only the measurements on the mean and standard deviation for each measurement.
+
+3. Use descriptive activity names to name the activities in the data set
+
+4. Label Appropriately the data set with descriptive variable names.
+
+5. create a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+## Variables
+
+- train, test, activitytrain, activitytest, subjecttrain and subjetest contain the data from the downloaded files.
+
+- activity contains the merged data from features data set
+
+- subject contains the merged data set from subject_train and subject_test data sets.
+
+- merged is a data set containing subjects, activity and measurements
+
+- extract contains only the measurements on the mean and standard deviation for each measurement, activities ans subjects.
+
+- data_final is an independent tidy data set with the average of each variable for each activity and each subject.
