@@ -15,9 +15,13 @@ This is the course project for the Getting and Cleaning Data Coursera course. Th
 4.Merge the two datasets
 
 5.create one data set containing subjects, activity and measurements
+
 6.Exctrat only the measurements on the mean and standard deviation for each measurement
+
 7.Using descriptive activity names to name the activities in the data set
+
 8.Appropriately label the data set with descriptive variable names.
+
 9.create a second, independent tidy data set with the average of each variable for each activity and 
 each subject
 
